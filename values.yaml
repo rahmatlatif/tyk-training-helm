@@ -4,7 +4,7 @@ global:
     #
     # NOTE: If you do not want to store license as a plain text in the file, you can use a Kubernetes secret
     # that stores the dashboard license. Please see `.global.secrets.useSecretName`.
-    dashboard: "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhbGxvd2VkX25vZGVzIjoiMGYwM2U4NWYtZjI5Ny00ODJhLTQ3MTMtZmIzZjk0OGM3YWJiLGU4NmE4MmVjLTkyNGUtNGQ1Mi01MzBiLWJhNDM0ZTEzOTYwNSwxZTA3NTIxMi0xMTY2LTRjMDMtNGNiOS03NTFiYzFmODAzY2MsYmQ5OTkxZjItNTllMC00YjQ0LTUzYTAtOGVkZTVkMGI0N2YzLDUwNGU4ZmNlLTEzOGYtNDVhNC03NzQ3LTc1YzcxMTNiY2RhYixmOTY1ODg1Yy1lNmM3LTRjODYtNzk0YS1kODg2YzhhMzU5NGMsYjk5ODlhMWMtNWQ2OS00MjhhLTc4YTQtYTJkYzI5YWJlZmU2LDk0YWNlOWYyLTViYmUtNDgwMi02NDJjLTcxMDFjOWY2NmY1NCxhYTVmNDg1Mi0zYzM2LTRjZmUtNGU5Yi1iZThmM2Y2OWZhNGIsNDE5OTgyM2EtZmVkNC00ZGNjLTQwNjktOTFjYWQ3NmFhNGVkIiwiZXhwIjoxNzU3MDMwMzk5LCJoaWQiOiJyYWhtYXQiLCJpYXQiOjE3NTQzNjg3MTQsImxpY2Vuc2VfdHlwZSI6ImludGVybmFsIiwib3duZXIiOiI2NmI2M2I0NmUzYzRkNTAwMDE3Mzk0YjIiLCJzY29wZSI6Im11bHRpX3RlYW0scmJhYyxncmFwaCxmZWRlcmF0aW9uLHN0cmVhbXMsdHJhY2siLCJ2IjoiMiJ9.iK1ITMN_4umKACSeQpzEmCl_mOoWuJasIH5it7TL0_D49KsPu2mn5sSOjxmfC1XvLxI6u9hFXOlZZX9IFpz-CcHruL4SKsjKmKq3ACcmAlmCF8pyqCge0MHiNm0JwJ85YYtTPgOqWZkSRd-57UIatagta1bfagfGBbIuP8rhIEPDt0_pRm5hYHLs-EIIk6IETyAZJchCybHZpEjZU5CZ6zb7SoOlsiCjqQXKz034vnypV3fGkeKz1i7PMfEmtPnzuJe2O7zQl4sEINKIEpCnWTBM3JrfeoK7QbMtjp6GpbVVTA_rgUkCWEAtee7siG2UUmJnitPsPqhz5-OMHNwi_Q"
+    dashboard: "{YOUR-DASHBOARD-LICENSE-HERE}"
     # The license key needed by Tyk Operator to work.
     #
     # NOTE: If you do not want to store license as a plain text in the file, you can use a Kubernetes secret
